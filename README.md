@@ -1,5 +1,4 @@
 # agent-ansible
-i
 
 ## Build
 Build and annotate the agent image
